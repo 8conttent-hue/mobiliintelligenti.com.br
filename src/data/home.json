@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "MOBILIINTELLIGENTI — Bem-vindo à Mobili Intelligenti",
+    "description": "Inovação em mobiliário para espaços compactos."
+  },
+  "hero": {
+    "title": "Bem-vindo à Mobili Intelligenti",
+    "subtitle": "Inovação em mobiliário para espaços compactos.",
+    "btnText": "Conheça nosso showroom",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Descubra as vantagens dos nossos móveis",
+    "items": [
+      {
+        "icon": "🪑",
+        "title": "Móveis Transformáveis",
+        "desc": "Mude a função do seu móvel em segundos, adaptando-se à sua rotina."
+      },
+      {
+        "icon": "🌍",
+        "title": "Design Moderno e Funcional",
+        "desc": "Importados com o melhor do design europeu e norte-americano, nossos produtos unem beleza e praticidade."
+      },
+      {
+        "icon": "👥",
+        "title": "Fácil Manuseio para Todos",
+        "desc": "Desenvolvidos para ser operados facilmente por pessoas de todas as idades."
+      },
+      {
+        "icon": "✅",
+        "title": "Qualidade Superior",
+        "desc": "Móveis feitos com materiais de alta qualidade, refletindo durabilidade e sofisticação."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre a Mobili Intelligenti",
+    "desc": "A Mobili Intelligenti chegou ao Brasil para revolucionar a forma como você vê o mobiliário. Nosso showroom em Alphaville é o primeiro espaço dedicado a mostrar móveis que se transformam para resolver os desafios de quem vive em espaços reduzidos.",
+    "stats": [
+      {
+        "value": "100%",
+        "label": "Satisfação do Cliente"
+      },
+      {
+        "value": "3",
+        "label": "Palavras-Chave: Versatilidade, Design, Qualidade"
+      },
+      {
+        "value": "50+",
+        "label": "Modelos Disponíveis"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

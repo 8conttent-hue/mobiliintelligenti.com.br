@@ -1,0 +1,53 @@
+{
+  "name": "MOBILIINTELLIGENTI",
+  "slug": "mobiliintelligenti.com.br",
+  "description": "Alphaville foi o local escolhido para receber o primeiro Showroom da Mobili Intelligenti, uma verdadeira inovação em mobiliário que vem para solucionar o problema dos espaços compactos. A correria do dia a dia faz com que as pessoas escolham cada vez mais morar em espaços reduzidos, como apartamentos pequenos e de fácil manutenção, onde móveis funcionais são peças chave para atender estas necessidades. Pensando exatamente nesta crescente demanda do mercado, e seguindo as tendências norte americana e europeia, a Mobili Intelligenti traz, com exclusividade para o Brasil, móveis transformáveis. Importados de várias partes do mundo, os móveis com design moderno e de alta qualidade, se transformam em outros móveis em questão de segundos, isso graças à tecnologia utilizada nas diversas ferragens. Práticos, todos os móveis podem ser manuseados com facilidade por homens ou mulheres de todas as idades. Com este lançamento exclusivo, a Mobili Intelligenti se instala no país com três palavras de ordem que combinam perfeitamente com o séc. XXI: versatilidade, design e qualidade. CONHEÇA NOSSO SHOWROOM: Alameda Araguaia, 122 – G7 – Alphaville/São Paulo Tel. 55 11 4195-6903  –   WhatsApp 55 11 97761-4863",
+  "url": "https://mobiliintelligenti.com.br",
+  "niche": "Casa e Decoração",
+  "keywords": "Alphaville foi o local escolhido para receber o primeiro Showroom da Mobili",
+  "email": "contato@mobiliintelligenti.com.br",
+  "palette": "ocean",
+  "colors": {
+    "primary": "#0ea5e9",
+    "accent": "#0369a1",
+    "dark": "#0c4a6e"
+  },
+  "headerContrast": "light",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-D",
+    "hero": "Hero-H",
+    "features": "Features-G",
+    "about": "About-B",
+    "posts": "Posts-H",
+    "footer": "Footer-G",
+    "sobre": "Sobre-G",
+    "contato": "Contato-C"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

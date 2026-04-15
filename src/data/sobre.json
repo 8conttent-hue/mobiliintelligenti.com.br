@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o MOBILIINTELLIGENTI"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "A Mobili Intelligenti chegou ao Brasil para revolucionar a forma como você vê o mobiliário. Nosso showroom em Alphaville é o primeiro espaço dedicado a mostrar móveis que se transformam para resolver os desafios de quem vive em espaços reduzidos."
+  },
+  "content": "A Mobili Intelligenti é uma empresa que traz novidades para o mercado de móveis, focando em soluções práticas e modernas para ambientes pequenos. Nosso compromisso com a inovação e a qualidade nos permite oferecer produtos que atendem perfeitamente as necessidades dos nossos clientes.",
+  "mission": "Nossa missão é oferecer móveis que maximizem a funcionalidade e a estética dos espaços, transformando a experiência de viver em apartamentos pequenos.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}
